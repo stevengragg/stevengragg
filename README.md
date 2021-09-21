@@ -1,7 +1,7 @@
 ### Hey, Awesome! I am Steven Gragg and I am a Developer 👋
 
 - 👀 I’m interested in Full-stack Web Development
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Docker and Redux
 - 💞️ I’m working as a Senior Web Developer for an Australian Company through Upwork
 - 📫 Reach me at sgragg0518@gmail.com
 
