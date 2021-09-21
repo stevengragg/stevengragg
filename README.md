@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hey, Awesome! I am Steven Gragg and I am a Developer 👋
 
+- 👀 I’m interested in Full-stack Web Development
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m working as a Senior Web Developer for an Australian Company through Upwork
+- 📫 Reach me at sgragg0518@gmail.com
+- 
 <!--
 **stevengragg/stevengragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
