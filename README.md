@@ -1,4 +1,4 @@
-### Hey, Awesome! I am Steven Gragg and I am a Developer 👋
+### Hey, Awesome! My name is Steven and I am a Developer 👋
 
 - 👀 I’m interested in Full-stack Web Development
 - 🌱 I’m currently learning Docker and Redux
