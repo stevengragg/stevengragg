@@ -5,6 +5,24 @@
 - 💞️ I’m working as a Senior Web Developer for an Australian Company through Upwork
 - 📫 Reach me at sgragg0518@gmail.com
 
+### I am expert with these technologies ⚡ ###
+
+ - ✔ MeteorJs Framework
+ - ✔ MERN Stack
+ - ✔ MongoDB
+ - ✔ ReactJs
+ - ✔ NextJs
+ - ✔ Tailwind CSS
+ - ✔ Bootstrap CSS
+ - ✔ NodeJs
+ - ✔ ExpressJs
+ - ✔ React-Native
+ - ✔ Figma
+ - ✔ WordPress
+ - ✔ HTML
+ - ✔ CSS
+ - ✔ Javascript
+ - ✔ Typescript
 <!--
 **stevengragg/stevengragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
