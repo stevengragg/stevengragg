@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning Docker and Redux
 - 💞️ I’m working as a Senior Web Developer for an Australian Company through Upwork
 - 📫 Reach me at sgragg0518@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/devsteve05/
+- 🔗 Upwork: https://www.upwork.com/freelancers/~01d8f5cddc46946787?viewMode=1
 
 ### I am expert with these technologies ⚡ ###
 
