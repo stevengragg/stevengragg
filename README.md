@@ -1,7 +1,6 @@
 ### Hey, Awesome! My name is Steven and I am a Developer and Founder 👋
 
 - 👀 I’m interested in Full-stack Web Development.
-- 💞️ I’m working as a Senior Web Developer for an Australian Company through Upwork.
 - 💻 I'm the Founder and Head of Growth of Iona Innovation Labs - startup software development agency.
 - 📫 Reach me at steven@ionainnovlabs.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/devsteve05/
