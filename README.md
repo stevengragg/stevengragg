@@ -1,4 +1,4 @@
-### Hey, Awesome! My name is Steven and I am a Developer and Founder 👋
+### Hey, Awesome! My name is Steven and I am a Developer and a Startup owner 👋
 
 - 👀 I’m interested in Full-stack Web Development.
 - 💻 I'm the Founder and Head of Growth of Iona Innovation Labs - startup software development agency.
