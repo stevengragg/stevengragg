@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in Full-stack Web Development.
 - 👀 I’m looking for a co-founder for a SaaS startup.
-- 💻 I'm the Founder and Head of Growth of Iona Innovation Labs - startup software development agency.
+- 💻 I'm the Co-founder and Head of Growth of Iona Innovation Labs - startup software development agency.
 - 📫 Reach me at steven@ionainnovlabs.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/devsteve05/
 - 🔗 Upwork: https://www.upwork.com/freelancers/~01d8f5cddc46946787
