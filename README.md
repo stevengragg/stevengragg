@@ -11,6 +11,7 @@
 
  - ✔ MeteorJs Framework
  - ✔ MERN Stack
+ - ✔ Apollo GraphQL
  - ✔ MongoDB
  - ✔ ReactJs
  - ✔ NextJs
@@ -19,11 +20,10 @@
  - ✔ NodeJs
  - ✔ ExpressJs
  - ✔ React-Native
- - ✔ Figma
- - ✔ WordPress
  - ✔ HTML
  - ✔ CSS
  - ✔ Javascript
+ - ✔ Web Scraping
 <!--
 **stevengragg/stevengragg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
