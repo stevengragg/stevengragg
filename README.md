@@ -1,8 +1,7 @@
-### Hey, Awesome! My name is Steven and I am a Developer and a Startup owner 👋
+### Hey, Awesome! My name is Steven Gragg, I worked as a Full-stack Developer 👋
 
-- 👀 I’m interested in Full-stack Web Development.
-- 💻 I'm the Founder and Head of Growth of Iona Innovation Labs - a startup software development agency.
-- 📫 Reach me at steven@ionainnovlabs.com
+- 👀 I love learning the software architecture.
+- 💻 I lead a team of developers. I am really interested full-stack development, and open-source collaborations.
 - 🔗 LinkedIn: https://www.linkedin.com/in/devsteve05/
 - 🔗 Upwork: https://www.upwork.com/freelancers/~01d8f5cddc46946787
 
