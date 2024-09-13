@@ -2,8 +2,8 @@
 
 - 👀 I am currently learning "Software Architecture" and advanced concepts of "Node.js".
 - 💻 I lead a team of developers. I am interested in web and mobile app development, and open-source collaborations.
-- 🔗 [https://www.linkedin.com/in/devsteve05/](LinkedIn)
-- 🔗 [https://www.upwork.com/freelancers/~01d8f5cddc46946787](Upwork) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/devsteve05/)
+- 🔗 [Upwork](https://www.upwork.com/freelancers/~01d8f5cddc46946787) 
 
 ### I am an expert with these technologies ⚡ ###
 
