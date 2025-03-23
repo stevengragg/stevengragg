@@ -1,6 +1,6 @@
 ### My name is Steven Gragg, and I work as a full-stack developer for startups. 👋
 
-- 💻 I lead a team of developers. I am interested in web, and mobile app development, and open-source collaborations.
+- 💻 I am interested in web, and mobile app development, and open-source collaborations.
 - ⚡ Building with AI and automation.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/stevengragg/)
 - 🔗 [Upwork](https://www.upwork.com/freelancers/~01d8f5cddc46946787) 
